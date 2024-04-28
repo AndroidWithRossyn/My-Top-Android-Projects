@@ -6,6 +6,7 @@
 <p align="center">
 
 <a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20to%20Download-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 <table border="2" cellpadding="10" >
 <tr>
@@ -18,6 +19,7 @@
 
 
 <h3></h3>
+<h6></h6>
 
 </td>
 </tr>
@@ -51,9 +53,326 @@
 
 
 
+<!--all downloader social media 7+ project-->
+<details open> 
+<summary>
+<h2>All Video Downloader & Story Saver</h2>
+<img src="https://play-lh.googleusercontent.com/-xk3nBcn6mpTF0dqi8rj1WnJJYA2zbSttY8Gdi7NZNAN9tf6lorW9jP9hx_KwQ4rKCU=w240-h480-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/-xk3nBcn6mpTF0dqi8rj1WnJJYA2zbSttY8Gdi7NZNAN9tf6lorW9jP9hx_KwQ4rKCU=w240-h480-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>This application makes downloading WhatsApp and WA Business image and video statuses incredibly simple.</h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.techhive.statussaver&hl=en-IN"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+<a href="https://play.google.com/store/apps/details?id=com.allvideodownlaoder.videosaver.statusvideodownload"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store Client-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/7R6iCWsIG-9Yi8QMqcC3dPszqsno0yvCX7tMWkXO30c8hMCRDLr-jpC50liD2zlptpqj=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/R2ml08uiiKfcMiKR-4ZtjXcs2pqHqKUggMaIs64PeBBNDoB2NUyHnxR7ubdnneABMg=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/HvMx3X0skCW_Z_gCwfXBlsThP0sORV_cne3IYD2AAsSrHXXtPpoPzI6xM7__FNrpArA=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/9iBtqSHh6na8PXYUpvp7UcBlz4E4Bs_M054bTEhJE2m1TrOnzsWbVQ9DiBYqXnnoqfVz=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/-i_uDuQOARkC20XIIO1ttMfx_QdYK9Y-GcyAvUfu3RJCYYZ1Ju4bt2ETTp89J60Bf4M=w2560-h1440-rw" hight="400"  width="150" />
+<img src="https://play-lh.googleusercontent.com/UIjLQR5-G0r36mKvi3CrQAEt1OYzc8pRpk7RAPEkHW4IYKlsDWCM-RE-G77_qK4vLw=w2560-h1440-rw" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
 
 
 
+
+<!--video editor client delhi-->
+<details open> 
+<summary>
+<h2>Photo Video Maker : Slideshows </h2>
+<img src="https://play-lh.googleusercontent.com/rZvp1jmcOXCQMF8qwIHAdEwK5G8slM0lM0LMumJ_ZmxJb34tef91VGOEox5BYVLeJR4=w240-h480-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/rZvp1jmcOXCQMF8qwIHAdEwK5G8slM0lM0LMumJ_ZmxJb34tef91VGOEox5BYVLeJR4=w240-h480-rw" alt="Logo" width="70">
+
+</td> 
+<td>
+
+
+<h3>Video Maker Pro is for Create marvelous video for all social media like WhatsApp, Instagram, Facebook and YouTube with all portrait and landscape ratio</h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.vrinda.videoeditor"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/YW98A3EomaOOHLrwxn28Qr65_HCzibJjVJYI0zY_66sYILfR5ZuSvJNWZghIQYtY2tza=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/sD-1pLpciAgHjwR_HGlwYl5btfCEinOXbj1fD_ijIgXZNqKspC2saIgpFSPZB33HRTar=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/XEqMZsMpbgFjVQEejhHTE1IAUFGIwIeaxrH30EufH_Phvji32At2iMEGmjIK9Ku2QoI=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/ud6E89Gc9htL61ZfWRDWGBHOKDZOOwTUO1FF0hc0Z8GnpWxASoKZWTHCg-j0Kja2Dnc=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/ojdVzkSGsctSMuSObLRP5Zz1jBajZ-LFH4h27e6qMfCXOQmrhOzZovd0QXPo2LgYEg=w2560-h1440-rw" hight="400"  width="150" />
+<img src="https://play-lh.googleusercontent.com/q7__0PzvIMcdvJeiJlsx8b4W5cKe90wTAcofG7qG4E-vuj_LgufErsmu8QwO7G8FXQ=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/2aq8Sm7HWBij8W9L-lSUKTVgovhkafY4FE88-GxnzgBDlLswlQAAWLxqJrgi-qx1=w2560-h1440-rw" hight="400" width="150" />
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+<!--threads downloader project on rossyn console-->
+<details open> 
+<summary>
+<h2>Threads Downloader </h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/9c8391cc-782e-42a1-945c-469062213568" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/9c8391cc-782e-42a1-945c-469062213568" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>ThSaver helps you save Video & Photo Threads, Elevate your Threads game with our powerful Downloader App 📥📸 Save, savor, and share your favorite moments offline!</h3>
+<h6>Codecanyon purchased. I worked on the project for own purpuse & make live on playstore.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://camo.githubusercontent.com/9548e41eef69622f5002525d25bce64c83875d0e825eca9ba14174c51ddc97b2/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6e735a3636777143335851617a644a6e473255656247545658514a726157544872335f314e524238474378764541523346594c6233774c355170554837512d544b673d77323536302d68313434302d7277"  width="350" />
+<img src="https://camo.githubusercontent.com/e7e56ec7d87820e3cc459395b5981fafb808723947aca7853e6081eee5e3aac8/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5169346e615f4f73553367626462664a7954706233426f577055315f2d4743493654574f74684a415a336677626f76654f424d657553674a576675506637652d6e513d77323536302d68313434302d7277"  width="350" />
+<img src="https://camo.githubusercontent.com/d1f7ab99409f2edf82ed30dd1804d2c631182e7fd20ee59479431788e7be9c96/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5a4f6b4f43756b67552d694e397171394d6c5534386a31377646713155346f6f75527153397a77535f46616f347a7243524874624e4f5963396a635773586a526255513d77323536302d68313434302d7277" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/f21e3659fa6a1b85de77b500dda0a5f047e7f1531d1b5bcf2935b19726a21ec5/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f79654e76776a3159366e53317a6951746f66786454434772596a347855714b696a386c3048354e6c57654c4c786f4f694555344c5f577032797834675939555038727a573d77323536302d68313434302d7277" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/1e642d5bdc9a764e4d2bfd999c3d97dc363edb040b577745a21a92a6a0bf2628/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f70743131444a353970365f46446341634570756d7744495f6c625133386969507237547932583076734a6d4f4759366c4e4e53507874394c6b6e534777437952644576683d77323536302d68313434302d7277" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/1e642d5bdc9a764e4d2bfd999c3d97dc363edb040b577745a21a92a6a0bf2628/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f70743131444a353970365f46446341634570756d7744495f6c625133386969507237547932583076734a6d4f4759366c4e4e53507874394c6b6e534777437952644576683d77323536302d68313434302d7277" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/27a9810366991ed9cce716c9113c07e6d1d5f6420746fd0d5eda3be24c9bdb3e/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5645566d4e41504a4e78315a74354451684e5569564d5a31584f6a79374b5a396765556c6d6a415271655a4d7a4254306f666471736f3074543766614b5a58566d773d77323536302d68313434302d7277" hight="400"  width="150" />
+<img src="https://camo.githubusercontent.com/3efc5932c8a86b8fefdd21780425b17a1d9673063534de3d3d5859d5337a2507/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f334e79486769332d7367486f5f6d56584b724c786b615f6f72705737454478522d71654e4754734b41696f6a3070412d525667495344484644504255436351324f70343d77323536302d68313434302d7277" hight="400" width="150" />
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+<!--math puzzle-->
+<details open> 
+<summary>
+<h2>Maths Quiz - The way of new learning</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/6ebe1fed-e2cd-418f-870c-11ffcd447455" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/6ebe1fed-e2cd-418f-870c-11ffcd447455" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>A Simple yet amazing math application for students, teachers and parents.Increase your brainpower using more then 36 thousands of mathematical questions/quiz.</h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+<!--pip photo maker glass effect-->
+<details open> 
+<summary>
+<h2>PIP & Photo Collage Maker</h2>
+<img src="https://play-lh.googleusercontent.com/8hG0tIDw1OPGaMSqWEShKx5M8VDTEEa3Wlw-cHILDym15D2OxmUQt2mCgf26p1NJM-ba=w240-h480-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/8hG0tIDw1OPGaMSqWEShKx5M8VDTEEa3Wlw-cHILDym15D2OxmUQt2mCgf26p1NJM-ba=w240-h480-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>PIP & Photo Collage Maker With Photo Editor & Body Shape Editor is for Make PIP image, Photo collages.</h3>
+<h6>The project was purchased as per the client's requirement. (Kessi Infotech) I have fixed bugs and reskinned this project.</h6>
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.kessi.photopipcollagemaker"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/-DVtkfRo9j9zWRN-9ikmcIBDKEcw4-8ZS8M-t_6y3VSlb7bCFl49JP7SGd_Mttj9g2Y=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/mbQty3myiBnEY2tQxxAFTzNd6PxHe5dUU1YmR0rEd4lf6CGulgZWI1OEtNYY26mx=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/In8ArJsYpiDOV2R7E-YOP42gpgguTbXdLUNQn6SuIWM9MObTGC1x2CYDjELv6PJVKFpv=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/94eKBGfVyqnJcq9iS2Uyh41cm34OnNGeBCwpgC8Qdiq9KKUqiXm19g2EFNS4gt-HJQ=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/T-xboLS-9dH1nxcqce7uK3UEbqz4Qh4dd9hGjOPeGSD2drl5_4AOLBSsgTjaYHYejNg=w2560-h1440-rw" hight="400"  width="150" />
+<img src="https://play-lh.googleusercontent.com/ox1rLsarB4DNxwcTYXKV1oQgG2cuniTwiS9LZA51gSbqWShO63Nk5QVtZuEwg10JBiOb=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/ON-gxkSfsuo_lDljZKxwtW8WQoRlp_OyuwNFuM2qqEgpLdA6QNgTpovYHvvEuzzViw8=w2560-h1440-rw" hight="400"  width="150" />
+<img src="https://play-lh.googleusercontent.com/LavA1Anhgm0Ywmv_tRoll1pGQr1gMgwEY2-aITFHBOGdWB-yXD11ptoBUs3Yx8BOp1E=w2560-h1440-rw" hight="400" width="150" />
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+<!--instagram toolkit-->
+<details open> 
+<summary>
+<h2>InstaGramzy</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/fc1462e9-01de-4c2b-bfbb-e50698a6b70c" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/fc1462e9-01de-4c2b-bfbb-e50698a6b70c" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>All in one Instagram toolkit with Followers Analytics</h3>
+<h6>Client's requirement. I have fixed bugs and reskinned this project.</h6>
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://user-images.githubusercontent.com/118904953/222895703-e166e947-2e44-4f1e-a37d-31d7676b2b3a.jpg" width="350"/>
+<img src="https://user-images.githubusercontent.com/118904953/222895701-88604cac-65ec-4c63-a28e-ef405d516a4e.jpg" width="350"/>
+<img src="https://user-images.githubusercontent.com/118904953/222895698-12004310-25c5-4b76-9513-756b249ad71c.jpg" width="350"/>
+<img src="https://user-images.githubusercontent.com/118904953/222895697-55ad76af-4008-47ed-9a9c-6b5fd8d38cda.jpg" width="350"/>
+<img src="https://user-images.githubusercontent.com/118904953/222895694-1c7c13d5-61bd-4f47-b7d7-adaae2cf8828.jpg" width="350"/>
+<img src="https://user-images.githubusercontent.com/118904953/222895692-10a8c2bb-d77a-4465-88e0-d707b3d1ddbd.jpg" width="350"/>
+<img src="https://user-images.githubusercontent.com/118904953/222895690-18118355-bca4-472e-a14e-9f320edb505d.jpg" width="350"/>
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
 
 <!--queshot-->
 <details open> 
@@ -76,7 +395,7 @@
 
 
 <h3>Collage Maker, Makeup & Beauty - All In One Photo Editor.</h3>
-
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
 </td>
 </tr>
 <tr>
@@ -127,7 +446,7 @@
 
 
 <h3>Whatsapp, WA Business, Facebook, Instagram, TikTok,Twitter, Likee & More</h3>
-
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
 </td>
 </tr>
 <tr>
@@ -178,7 +497,7 @@
 
 
 <h3>It’s simple step creating stunning DP, Status, and post image.</h3>
-
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
 </td>
 </tr>
 <tr>
@@ -233,6 +552,7 @@
 
 
 <h3>secure calculator app protects your photo album, gallery, secret videos.</h3>
+<h6>Project purchased only for learning purpuse.</h6>
 
 </td>
 </tr>
@@ -288,7 +608,7 @@
 
 
 <h3>You can scan anything such as photos, documents, receipts, and so on.</h3>
-
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
 </td>
 </tr>
 <tr>
@@ -342,6 +662,7 @@
 
 
 <h3>Whats Tool : Android app with Whats web, Walk n Chat, Status Saver , Whats Fake Chat And More</h3>
+<h6>learning purpuse</h6>
 
 </td>
 </tr>
@@ -398,6 +719,7 @@
 
 
 <h3>Network Speed Meter Original is a simple but powerful free internet speed meter</h3>
+<h6>My own project. Uploaded on Playstore</h6>
 
 </td>
 </tr>
@@ -455,7 +777,7 @@
 
 
 <h3>The Broken Screen Wallpaper Prank App designed to create a realistic illusion of a broken screen on mobile</h3>
-
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
 </td>
 </tr>
 <tr>
@@ -507,8 +829,8 @@
 <td>
 
 
-<h3>You can download video from facebook, instagram, tiktok, pinterest app to your gallery (learning purpose)</h3>
-
+<h3>You can download video from facebook, instagram, tiktok, pinterest app to your gallery</h3>
+<h6>learning purpose</h6>
 </td>
 </tr>
 <tr>
@@ -559,8 +881,8 @@
 <td>
 
 
-<h3>“Women Lose Weight & Water Reminder” is one of the finest & leading app to synergies you lose your weight! (Client Requirement)</h3>
-
+<h3>“Women Lose Weight & Water Reminder” is one of the finest & leading app to synergies you lose your weight!</h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
 </td>
 </tr>
 <tr>
@@ -617,9 +939,8 @@
 <td>
 
 
-<h3>Experience the ultimate virtual AI dating experience with aiGirl.
-(Client Requirement)</h3>
-
+<h3>Experience the ultimate virtual AI dating experience with aiGirl.</h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
 </td>
 </tr>
 <tr>
@@ -671,8 +992,8 @@
 <td>
 
 
-<h3>Save Video, Photo, Storys, reels and Highlight from Instagram (Free @ Github)</h3>
-
+<h3>Save Video, Photo, Storys, reels and Highlight from Instagram </h3>
+<h6>learning purpose</h6>
 </td>
 </tr>
 <tr>
@@ -723,8 +1044,8 @@
 <td>
 
 
-<h3>Reading Diary is book management app that enables you to track your books, categorize them, search and filter them and share word about them with your friends(Free @ Github)</h3>
-
+<h3>Reading Diary is book management app that enables you to track your books, categorize them, search and filter them and share word about them with your friends</h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
 </td>
 </tr>
 <tr>
@@ -770,8 +1091,8 @@
 <td>
 
 
-<h3>InInsta helps you save Video, Photo, Storys, reels and Highlight from Instagram(Free @ Github)</h3>
-
+<h3>InInsta helps you save Video, Photo, Storys, reels and Highlight from Instagram</h3>
+<h6>my own project purchased and uploded on console</h6>
 </td>
 </tr>
 <tr>
@@ -799,11 +1120,3 @@
 </table>
 </p>
 </details>
-
-
-
-
-
-
-
-
