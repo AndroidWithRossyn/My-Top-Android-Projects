@@ -53,6 +53,283 @@
 
 
 
+
+<!--tic tac toe online firebase realtime database-->
+<details open> 
+<summary>
+<h2>Tic Tac Toe - Online</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/fadffc33-eb4d-4450-b364-7dc775806e96" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/fadffc33-eb4d-4450-b364-7dc775806e96" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Tic Tac Toe is light and simple puzzle game also known as noughts and crosses, X and O or 3 in a row. Game fully playable offline with computer and also can be played for two players on same device or online. Online multiplayer let you to duel your friends or strangers around the world.</h3>
+<h6>I uploaded this project to my console account.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://camo.githubusercontent.com/b9e2ddda69d961433f0a38e2023dac0455fe959baf649bf7fee546cf0566561f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f71715f56345638695038434c4349524d6a38676b386e30544a384264367550657a696f31345061484b63726146507678486b6e43716158746c446e7a763348704138633d77323536302d6831343430"  width="350" />
+<img src="https://camo.githubusercontent.com/8fdc13dbd0d1f314e6c8045bb5f73d6a4183ec0bbca69f73c45d9616f19c8eb0/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6d4a46416f774d6936594e6150306671386e486f78344c34725469796a42386e6e4c307754586671422d7a31795a4244646b5956777568644d5a42794869315547513d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/51d491271fef9487e907a1d093795259a774e4a95cdff0a266da8b9a75dcd887/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f687a30524a6158305a4c53485073502d56692d6943727a593139466771396f4d6d513347473376585753697041776b5177694b6b704d6136637a4e31546e6e71652d5f763d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/0859ca6e5283b15b1efe6cf1e67d8a971466eb63a848e5340355dbd9264cf067/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6d6755394d424f414d305239303675634b4651575865656768634e2d5857414a3766306a314964313043496676325f6b4878377a3869574f7a51796f39726f7543413d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/431db5157c1733f4a98acd1124d302af7cd6c8c8ce94b2fb1ba60eb78df65ca6/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f55755a6a6f624d766a585555625071464d627476784933747850786e676a446567662d7a5f6b646a41627575314f496d6c66696f784171305055554a35354a67544d7a363d77323536302d6831343430" hight="400"  width="150" />
+<img src="https://camo.githubusercontent.com/9ed4f18252b5897f1d963c8443c2c9e903142fdf5b5ab844445f566551a006c0/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f334e4e42315553584e6a2d4677496f694c52355558522d4e476a33396f2d7855797436444f375a4b32516636476b4b6e536f36445a53713941714c72354f796f4e534d3d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/bb37f260a6f1a22086a1384f9d6ac6cf9638149fb86e6ad3170ea1de969a8240/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f74625a62754b716f7965376a70755753543970584d5468465738523143593430503271774877386239644e45325533736942777a704e4a545154336c5730546b386f706a3d77323536302d6831343430" hight="400" width="150" />
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+<!--classic tic tac toe on Rossyn-->
+<details open> 
+<summary>
+<h2>Tic Tac Toe - Classic (offline)</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/4ec5058d-7f8c-46c8-9ef7-db66844f8dd7" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/4ec5058d-7f8c-46c8-9ef7-db66844f8dd7" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>The Tic Tac Toe is a great way to pass your free time whether you're standing in a line or spending time with friends.</h3>
+<h6>I uploaded this project to my console account.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://camo.githubusercontent.com/e8571d9fae539589700ee6cc73d700528717acba9f584d5a8a0d7c1045620661/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f422d676738345561775f49307378413461344d7a5537594a74316742354b6a7330366c6d5f4f456d5558686f2d6d4c7a704e774f72456c576a4166795f514c6e49513d77323536302d6831343430" width="350" />
+<img src="https://camo.githubusercontent.com/36e2ff6afbac8ec4560032f6eefd00e084b38407894ed94d05e2bcc2b8e91112/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f4b6f7643744c4565436a704b7975565f4a36346c48395639476141535335374855334c674b656d36417573314b414d3259705f4d4e7052574b384b4474646f3172513d77323536302d6831343430"  width="350" />
+<img src="https://camo.githubusercontent.com/c8b7d08363cd46dd7639a3054a97f2b76d61bd600614077e9a3e4e1826f63c16/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5462446a52664f4569477a336b4d4a4662335068463644394d596e78495337627434475233636a6e67786c6d6f6373387549455241717536306b4373374e764671696a333d77323536302d6831343430"  width="350" />
+<img src="https://camo.githubusercontent.com/baede73bc7796147c437930cda1cdbac6360d4b11a22a6344f1f2eed4897dc52/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f61677a314a4a6d714c6f4730574270503058617a3739616c794736715834766f5965716a42592d64397a4d4d716f34624675346c4d4c756e47514c434446424e58513d77323536302d6831343430" hight="400" width="350" />
+<img src="" hight="400"  width="150" />
+<img src="" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+<!--all social saver with password manager-->
+<details open> 
+<summary>
+<h2>All-in-One-Social-Media-Android</h2>
+<img src="https://github.com/AndroidWithRossyn/All-in-One-Social-Media-Android/blob/main/app/src/main/ic_logo-web.png?raw=true" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href="https://github.com/AndroidWithRossyn/All-in-One-Social-Media-Android"><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20to%20Download-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/All-in-One-Social-Media-Android/blob/main/app/src/main/ic_logo-web.png?raw=true" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>ALL IN ONE android native app is a very useful app for all worldwide users. It will save your time, battery, space and ram of mobile. If you will use all in one social media app then you don’t need to install all separates app in your mobile.</h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://camo.githubusercontent.com/d86ba99e1434faf50df83ac1ccd859dd9ec03a9c190ea233044f0eb50606fb19/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f4877732d416438394335315a6332464a4a696c65567875784678795a44506b3577574f483038495072535847576f416b6e45756a7841617070753441424475466941553d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/8701f8259b79ed907d9cb9a86c1310ef4e03d9653cc14413b05904f3f1ad0cde/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f4b443575437252766c4e4950585f32632d716a647669676a3067496359757330775270704f4a57774a62426159592d4e704c5133724d305f493361674c34656438773d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/ae7966db2e0cf5498d04cd309ff2867132bc2c1382a485e79f110cec01371065/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6a62755431396f74596e654b5765596935452d6563364c505f326145496f6c5948687874444a353251506e5f536d4454443372766a76304732414a2d776a346d45413d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/3939993c5a9c0562b67b00e50152acce41c5e5c4b7f85d451672f6b911fb7f5f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f50654163335a6a6c7a456a56434e517a5167793961634f65486557544b7a47336a464834546c3837474c41714e466d69334148332d65356f67676568427a324a4f6f413d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/3fb1c7d4c1ec0e626848d35f964a2ef66b259adc85ce48e324c10a2a91ce426b/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6c364a79656f4653696b4e3768644e746c6834317a49494e4234425a5143564867756a7a596567504a4f6a5a38556d387554503644744536474941616c6a6f6a7a76513d77323536302d6831343430" hight="400"  width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+<!--notes app project -->
+<details open> 
+<summary>
+<h2> Android Notes  App Room Database</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/58dde573-584c-405d-9448-39d11e3ddcf1" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/58dde573-584c-405d-9448-39d11e3ddcf1" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>A Notes App template for creating a Notes app for Android! The application is fully native, using latest features of Android platform to provide the best user experience.</h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://user-images.githubusercontent.com/97843190/189488121-df787b2a-b692-4864-8169-bbb203aefce6.jpg" hight="400" width="150" />
+<img src="https://user-images.githubusercontent.com/97843190/189488125-5bf4bbc1-f8c1-4f3d-a86e-18c6ae7a364d.jpg" hight="400" width="150" />
+<img src="https://user-images.githubusercontent.com/97843190/189488126-c701e0fe-5e30-493b-a13f-5ccfe46ee18b.jpg" hight="400" width="150" />
+<img src="https://user-images.githubusercontent.com/97843190/189488128-ee04e205-b893-4b9f-9dc0-f77f0ed8cd2b.jpg" hight="400" width="150" />
+<img src="https://user-images.githubusercontent.com/97843190/189488129-759f8418-c1ce-4cbf-b739-a3c1570fff55.jpg" hight="400"  width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+<!--find my phone project-->
+<details open> 
+<summary>
+<h2>Find My Phone By Clapping</h2>
+<img src="https://play-lh.googleusercontent.com/66aA-dRoeAI0GS03iZhvqt6k4QHxuoih7vcXgfWvy0lEG8ntRuKpESlkKWeg_MNmZyA=w240-h480-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href="https://github.com/AndroidWithRossyn/Find-My-Phone-By-Clapping"><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20to%20Download-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/66aA-dRoeAI0GS03iZhvqt6k4QHxuoih7vcXgfWvy0lEG8ntRuKpESlkKWeg_MNmZyA=w240-h480-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>The Find My Phone By Clapping App is a handy and innovative application designed to help you locate your misplaced or lost phone easily. </h3>
+<h6>Client's requirement. Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.phonefinder.finderbyclap.devicefind"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/cfFXjhozRxfL7rfrcnjozzSauWoxlhQuvYoRTWDG8O8Uh4dQDeKxVCsQ8su0tis-yi7w=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/MBLAulfC6-if1pL-XisimI2dgsNFNeKC2FDjO6gNkwaRvPosf6blXEOjV1iTQS4T6XCY=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/il8ApLFKRppP5ElbHfv0mGvkSBjeqhHEJYgM5DAzbv_umYkJ7f8vSuL4RjsYwsp4GlX3=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/8UmPjipmXNDPKI3Ckp6o6zZycLPd-oLtA060iRkr68jjXBju8B8r9PDXf7n5ftr30E0=w2560-h1440-rw" hight="400" width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
 <!--all downloader social media 7+ project-->
 <details open> 
 <summary>
