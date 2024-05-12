@@ -53,6 +53,165 @@
 
 
 
+<details open> 
+<summary>
+<h2>Instagram-Facebook-Whatsapp-Downloader</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/7cfc71d3-667c-4b40-a70c-2880f1bc3903" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/7cfc71d3-667c-4b40-a70c-2880f1bc3903" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>All Status & Story Saver Downloader for Whatsapp app let you download photo images, GIF, Video of new status feature of Whatsapp also it allows to share right from app to your friends saver.</h3>
+<h6>Client Requirement</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://camo.githubusercontent.com/d6db7d876f2f77c299515519e111e821d2c4d3d13ed6a3c7e72691af041a5426/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f64574b38354b62537a726b4d7239302d31784a66784831596e79447733736b734150633046564843676b454c4b637767784b4757553159616246667679653452543339783d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/444bc318f86e1b64ed918c825135bdddb549b2fd94922ea56d82469e1cc80d64/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f724131455062504175797539776449717267534248717a324467314e5942756e64634e394133424b577a64647562565855504f6e65494c794b6242697a3634397a314d3d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/a38d2827e22d998b17d73c26c162e4fc7ac192315db103a140bc6927856d8077/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6e7735346e4548745f476a6572424b48426b4f34706f597273313833716c5849727a585a3054467a564f6f43503947656a496e56306e5242755f784576574b5870773d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/d26fd71c8d1c6d0a8ba041c499401aecb4ff43c2cd570c53502dc7f1ecfe514f/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f48707041626e6b6a336e516d5459456f4831494c6657646c6867746c79357a6b5f3355324f736742774b44615065574644773067534d6a7830306e2d5431444372673d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/d2d855f2caca93d6be6681ed9ff93eeabd944a796bb36e731938288ce8d04800/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f626e596d652d6776684c7a7233354d4d52556c717757525776487655437251387631506649764730516532337647664149517a3536655f59636d555748455f795a42493d77323536302d6831343430" hight="400"  width="150" />
+<img src="https://camo.githubusercontent.com/a723da675bb806738d08742f35fa8cee1273ccea0eed608d5b75930f5a596b34/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f6164545f6c53376c373836377673787a62395a666b69793075676177434667345638467748367a317a7074316e6f666731685651614a37655151516570737a56476672503d77323536302d6831343430" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Math-Quiz-App</h2>
+<img src="https://github.com/AndroidWithRossyn/Math-Quiz-App/blob/main/app/src/main/ic_launcher-playstore.png?raw=true" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+<a href="https://github.com/AndroidWithRossyn/Math-Quiz-App"><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20to%20Download-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/Math-Quiz-App/blob/main/app/src/main/ic_launcher-playstore.png?raw=true" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Math Quiz is a very easy game for kids to learn math, the player can choose between addition, subtraction, multiplication and division.</h3>
+<h6></h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://user-images.githubusercontent.com/97843190/189487246-ee79b065-2efd-4026-b6b5-2b73ce2d0127.jpg" hight="400" width="150" />
+<img src="https://user-images.githubusercontent.com/97843190/189487243-f6e06899-0890-4536-90b2-a85e0af29f5c.jpg" hight="400" width="150" />
+<img src="https://user-images.githubusercontent.com/97843190/189487241-e662172b-c8cb-4556-b4f7-294e3c05566c.jpg" hight="400" width="150" />
+<img src="https://user-images.githubusercontent.com/97843190/189487239-8604bc0e-597f-4063-b8bb-bba38ea5e5ef.jpg" hight="400" width="150" />
+<img src="https://user-images.githubusercontent.com/97843190/189487235-ebd513ed-84ce-4115-81e6-1d0502a4db7c.jpg" hight="400"  width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+<details open> 
+<summary>
+<h2>2048 Classic For Android</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/748fb891-c0af-405d-86a4-7032d29acacc" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/748fb891-c0af-405d-86a4-7032d29acacc" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Marge Tiles Brain Puzzle 2048 Game. Very simple game yet insanely addictive!</h3>
+<h6>I uploaded this project to my console account.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://camo.githubusercontent.com/1719f06edbe55d5361b017426426fa81e38f990ecb5b3f22d159d3f517584310/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f364f4a664156684545416433627174796a49765f7a487936716c6a426238775659556376656b684d785135757433785259374665322d3252444b3551597064624373773d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/3f5252784665580d4586d14444aac7e652e8bf5e897abdc5e9db90a96f5265a2/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f576d7379694264457a486b5265363447374a4f31494a78566e55354b48776f5249674a4e7833416151756473384371794648364b5936414276737874482d7572774c6a4e3d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/4c269b74b64e820023ed220cf2d51e751dacbfbacbab3fb424971803c819b9e5/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f324f4d58542d52586a636d45504f6a716930696335587672376c49633456584a486941384c7a346848647838534235686c43443044325a6145445558746e41703957593d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/3016e23a226aa8f6528c74224606cb5cafef31b9b533c8a1e87699305c86a95a/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f774f364a51303741334e4b674c78507a4c5f4f6b724d695250783858694a727a4d7a623251626d4557445371635f4f5931536e7974566e4b484872554937486741366a793d77323536302d6831343430" hight="400" width="150" />
+<img src="https://camo.githubusercontent.com/2f04034c835d83bc7d6b8cf75950dc3e01270072226161a0c33a0bb035610f1e/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f374470484c7539302d417963476a734c776a4630716c4376334b7764313644477638474d64557774716370497a39464931447a3078706832704d76576b3473486f78453d77323536302d6831343430" hight="400"  width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
 
 <!--tic tac toe online firebase realtime database-->
 <details open> 
