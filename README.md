@@ -53,6 +53,569 @@
 
 
 
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>QRCode-Genrater-Scanner</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/cfb128d7-ffb9-40cf-8abe-51a7eeebf7b3" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/cfb128d7-ffb9-40cf-8abe-51a7eeebf7b3" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Qr Code Scanne helps to scan Qr Code and genrate text email or link to Qr</h3>
+<h6>One Day Project:  client Requirement </h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+<a href=" "><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/63efb277-8412-40bb-bb69-8653ecf6ee0c" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/608ab2f3-7661-4c0b-bdcc-eeed3c341ef6" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/dea58943-a672-4e54-b80f-4f5ed3cdf5a2" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/2d58da23-eda5-4b13-a941-4868099787e8" hight="400" width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+<details open> 
+<summary>
+<h2>Reports+ followers Analytic</h2>
+<img src="https://play-lh.googleusercontent.com/fecC7yiidP_g73gl6497X1hzjVGw2btIu5ry1mXwpN2rcBsuhv6dULnxLykJKGEBWrw=w240-h480-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/fecC7yiidP_g73gl6497X1hzjVGw2btIu5ry1mXwpN2rcBsuhv6dULnxLykJKGEBWrw=w240-h480-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Track your Instagram followers, find out who unfollowed you on Instagram, who is not following you back, detect blockers, view your fans, rank your best friends and much more.</h3>
+<h6>Client Project Bug fix and improved</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.reports.followersanalytics"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/uNZY-AWOjBxdXPxvwjtr2q2Z3SontOL9odOvywJ0G0olAVbuJS1ZOVd_ZIdD-nhH3T2W=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/VsE6GH0JSmU0755-GqnHc_S4mc4w7qaNOlT7Y9qe-4Jt_dW437Lxpv_JzAQ2ICUQpRg=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/qX3-sBU6J84Sr83MEnYUnzruYjTifZkBGQ6BNhwyfIAIpk8pyk10NmcB-ZLtHeH7Qbc=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/opxzuZQmODt9GJtFS_I6E8_nBd84fAPRZZ2PXzCJY_Kvqd6AYLwMGkXz67uAd9kAbemL=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/zkZ3HDZK0lWDpcDDZl3unqKq3Pp-2LnVjofI8VzuVCcsizAcL-axL0cVcvoBuK5oTVY2=w2560-h1440-rw" hight="400"  width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Talk & Translate - Translator</h2>
+<img src="https://play-lh.googleusercontent.com/VfYuAHjuImC7vxcvo1xw5PhnPvKAiZRJTM5RA-XhGqctBPxW7odybeF4byyMSvi91HE=w240-h480-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/VfYuAHjuImC7vxcvo1xw5PhnPvKAiZRJTM5RA-XhGqctBPxW7odybeF4byyMSvi91HE=w240-h480-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Talk & Translate is an easy voice to voice, text to voice, voice to text, text to text and camera to text translator for your translation needs.</h3>
+<h6>RBS STUDIO</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=rbs.studio.speakandtranslate"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/9mwBe4LMFRwKkwOsipdZc2XOehuk3L13J5pIHjojptYDbCLhP9wZW8eA7JxfScP8s0w=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/EhdvZepWqQ6Ik-6-u7xNHwtQ48b2VYbxezfHIn0YnT_FMOFrcW3UBekV8Dh0WgLWBfE=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/8RNym_Un3Ss_26v196U2lxmk-usdwN1c82MNxPizO7fIyjow3ftce2x8hut3vhWozA=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/9o2coX5_q5f9tUB7OHP1NsVjksxI6_ooNWyJ7QS2I122GLi3Ihuf-9pxr-aE-k5hnA=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/fGDYYLW1yy3IEATLgW_FXb1vdEGqv43Q99uWac0k5M4PHY7kqV-6JY7Q7Oqs9uMkdQ=w2560-h1440-rw" hight="400"  width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Trackless VPN - Fast VPN Proxy</h2>
+<img src="https://play-lh.googleusercontent.com/NV30N-Mi-H4vSaQbatZXQZHtf3eW5rgnpmPRPTGS1ga6nKtG4pCFjge0yUFq_7EH95cU=s48-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/NV30N-Mi-H4vSaQbatZXQZHtf3eW5rgnpmPRPTGS1ga6nKtG4pCFjge0yUFq_7EH95cU=s48-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Ultimate Solution for Fast, Secure, and Private Internet Access</h3>
+<h6>RBS STUDIO</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.rbs.studio.trackless.vpn"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/hnjOm4scWUHL1K1yMugd0bVNAPxiw5nVkkcAkHQf6fyPZJbJr-dN_cJUsLCLclOmFXJ-=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/zQgoS2S5Cdt-thz6_Yw07QJDlf5tAHITA7F5ah50mYXK25i9B6timAJsrBlNJlHUlg=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/uy0ITL9SoqHfCe46beNpAr0yHe4jSYn1mVqOO41t96K2clHexedOkTeTBfHW6RNCvoUI=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/iGIBS9-Trw9b4LDRpoJZnaqBRq_rYKCiIYZoasb20qAshecsTUPmbePRf5DmkAWLlA=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/VCdWqwj5xnWrox5HpI4T8YdoTExoI0iEZaShF4QLN-hmV238R8Tq4lrkP8b-gQazRX0=w2560-h1440-rw" hight="400"  width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Home Workouts - No Equipment</h2>
+<img src="https://play-lh.googleusercontent.com/eKS2-WJa0aMpxOFpM1iK9k57kRMtADgDTAbbNixDJ0591uD4oip_4FbqrSvgqHW-LII=s48-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/eKS2-WJa0aMpxOFpM1iK9k57kRMtADgDTAbbNixDJ0591uD4oip_4FbqrSvgqHW-LII=s48-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Unlock Your Full Fitness Potential at Home with Home Workouts.</h3>
+<h6>RBS STUDIO</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+<a href=" "><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.rbs.workout.freak"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/ILfbNBHW0P4m4ePSoPM7y4fiETKo2xUTJXbxtww_GxeKmm8dM_hlwVFQVmE9SUwd3cIy=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/ZzS1Z9K_z5xfEVmpFU39VqoCsNL4DckRS1eyuPWeUH-NJinGuBH43Hri1LMuJLuQblQ=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/Zb4w1rleNHRBzRT4tfuEZyRKcZzO2dYmVIO7RVaL-IfRSLA7zh4NJpDyZSvvCfI_zO0=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/9xieXbglgQsycQ3inO923h2gERstqC-bNfQSBQHt-WZP6ISJ_PemgVb7Q8_SSRxc9pk=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/YKc6nNJuLiwolTqp3Op_eYnSZHgeYQ0uJE7Zjwy18gLVr7RyvivWrNWBFNvEOWqrYYM=w2560-h1440-rw" hight="400"  width="150" />
+<img src="" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Women Home Workout・Full Body Workout</h2>
+<img src="https://play-lh.googleusercontent.com/X6lIbQsx1ALVy_S1iVeTVwJpB8anOOaIhQYnymadl4WWs-GZm798Pnz44CDc9FZdRg=w240-h480-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/X6lIbQsx1ALVy_S1iVeTVwJpB8anOOaIhQYnymadl4WWs-GZm798Pnz44CDc9FZdRg=w240-h480-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Home Workout・Full Body Workout App for women will help you get stronger, leaner, and fitter - all from your living room. Home Workout・Full Body Workout app is the leading female fitness app that brings the gym to you at your home.</h3>
+<h6>RBS STUDIO</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=""><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.rbs.womenfitnessweightlose"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/GpbB8isokM___eyw7xj_S7ylgfoZxhQeH5W2iqdi2DP2Mcu9Gz1mzI9dP-lzdilo2UOp=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/vHE43rgHMS9XYY2PBiRGPW8c4SHjdLT3x46r_k6Y5XdneVCvVkmOSQLVVvLMbwQ2Ug=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/RUsx7pZ1SQhzHNwF9fAvmHuCGZY_DDbLbjTNZZKDgcJyjxrr0sx8epQaVSAlOZOkI5V2=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/w0RQ4ViChAL17fodTceQ5CG7HmLx_HNxgP00y1Tw7bSSptslnvpygmut2tmmdfp2p6ax=w2560-h1440-rw" hight="400" width="150" />
+
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Status Saver & Cleaner Pro</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/076cd6d8-4245-4e0a-8d66-ad8053a473f2" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/076cd6d8-4245-4e0a-8d66-ad8053a473f2" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Status Saver & Cleaner is for easily download all Video & Image Status & clean unwanted media of WhatsApp & WhatsApp Business
+You can save status quickly with high resolutions.</h3>
+<h6>client Requirement Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://s3.envato.com/files/327301130/01.jpg" hight="400" width="150" />
+<img src="https://s3.envato.com/files/327301130/02.jpg" hight="400" width="150" />
+<img src="https://s3.envato.com/files/327301130/03.jpg" hight="400" width="150" />
+<img src="https://s3.envato.com/files/327301130/04.jpg" hight="400" width="150" />
+<img src="https://s3.envato.com/files/327301130/05.jpg" hight="400"  width="150" />
+<img src="https://s3.envato.com/files/327301130/06.jpg" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>WA Kit for Whatsapp: Tools for Whatsapp</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/8ca117ea-95d6-462d-9875-d0db74fd43c8" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/8ca117ea-95d6-462d-9875-d0db74fd43c8" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>WA Kit for Whatsapp is the best Whats app which contains various tools like Whats Sticker, Direct Chat, Status Story Saver, Whats Web, Scanner And QR Code Generator etc</h3>
+<h6>client Requirement Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/9dc574ab-ccf9-4d38-9984-89b74a01aaaf" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/4c5c926a-beaf-4972-9274-8db8b7077e44" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/5a76cb52-1f4c-4d33-9bcf-90e44767f7d6" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/235bc201-a2b3-444a-9ee1-b5b93d9d1c9f" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/8710103e-59df-4304-bcc1-5bc0022d55a9" hight="400"  width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/dfc73378-9987-4210-8fba-736fa4af2453" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/b096da75-9a52-471c-8e58-0907742c32fd" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/b593ba91-9361-42f3-b881-48645f170cab" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/9868eae8-3af5-440f-89dd-601a77d2ce22" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/af7186e3-83e1-423f-ab07-f36ee3f425bc" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/8abd01c1-0246-4046-9a13-3efbee8a10bc" hight="400"  width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Whatsapp-Status-Saver</h2>
+<img src="https://play-lh.googleusercontent.com/mCeCDZ94wpAmrO1KWmPtT8xPR9BhaGZRm8Y9FVV3CAbHnUIy5N74sHaQYQYH41qY9Q=w240-h480-rw" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://play-lh.googleusercontent.com/mCeCDZ94wpAmrO1KWmPtT8xPR9BhaGZRm8Y9FVV3CAbHnUIy5N74sHaQYQYH41qY9Q=w240-h480-rw" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Status Saver App helps you save Video, Photo from Whatsapp & Whatsapp Business.</h3>
+<h6>codecanyon Project by Kessi Infotech: client Requirement Work- fixed bugs and reskinned this project.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.kessi.wawbstatussaver"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/9WYYP_M5SlWozxXpGCPhS35Nlta3GwMgkcFkipxxOMmhu7ywe224kVeL_HfU4OllIL0-=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/7WbO3cwBHPl1zZ1vxXZ_ZrZHkCCF7gwQ_t2gpcqwwvdpkxcYd3uPD80-rQ0wF60AYgpa=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/TQwSQJEnamJy7_vMGnT3ZIwANutGdEo9FoE4x7FEqzHjZ-33r3vMTUsWGJH8XRzJkaM=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/1PZxfQFVGpWTjUBUbvP1ouWBnLATqm0KR8msCvHe8_lGnpuwC3kvlQeTkCmsgXFmyyk=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/p7xNI895cTfRlwBlvtAbXQpBgI4hLU192_rwCACaPLNkS0a04mMct7r6Wmt6qya8144w=w2560-h1440-rw" hight="400"  width="150" />
+<img src="https://play-lh.googleusercontent.com/k_6CZK7df0psg4-wtFpKT_T-QGU8b8UN3CCWoyUglQcNyodx9otKryt2gXGTJEdSgqN3=w2560-h1440-rw" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
 <details open> 
 <summary>
 <h2>Instagram-Facebook-Whatsapp-Downloader</h2>
