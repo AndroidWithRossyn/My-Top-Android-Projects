@@ -1,25 +1,431 @@
+
+
+
+
+
+
+
+
+
 <details open> 
 <summary>
-<h2> </h2>
-<img src="" alt="Logo" width="30">
+<h2>Story saver & video downloader</h2>
+<img src="https://play-lh.googleusercontent.com/b7_UqFVzPJBslJrp8FQlyXDppp-b28hBKTlXqArAG5h9BknMRs3O1zS7wSICEq6zecs=w240-h480-rw" alt="Logo" width="30">
 </summary>
 <p align="center">
 
-<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20to%20Download-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
 <a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 <table border="2" cellpadding="10" >
 <tr>
 <td rowspan="2" align="center">
 
-<img src="" alt="Logo" width="70">
+<img src="https://play-lh.googleusercontent.com/b7_UqFVzPJBslJrp8FQlyXDppp-b28hBKTlXqArAG5h9BknMRs3O1zS7wSICEq6zecs=w240-h480-rw" alt="Logo" width="70">
 
 </td>
 <td>
 
 
-<h3></h3>
-<h6></h6>
+<h3>Instagram Media Downloader: save Videos / Photo / Reels/ Story & Highlight</h3>
+<h6>This project has been given to the client as per partnership</h6> 
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.shotis.storiessaver.videodownloader"><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://play-lh.googleusercontent.com/LzfME0H9iM39k2hh8L9t48ZkpaNISJoSmysn4cFWa89Iu2COB-piJ-phTuCOKf6OEaQ=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/Dyj5L3aMsofGu5cMzDJEYDcj1OohpsOHUJgkh1yJlf4E4UQzlCudGQtr9A3EH6gL8A=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/-piL7tg_npheokPEpfaezs1fH3nebV5vlsacVx-XgyJPCc6YpFSC4qitoXh_yrg1cPU=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/vK6-jxnix7AUnB2-pjr8GjvwQVIkgddj2p4Gf7lOCttqmYM2uTGq_hxy46UBG0h3KUt7=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/LFnAZC0bGxjpkyYHBhnkgLB7Tkc8E1mWpQZ_O1a_E03hm__E1Bz5z_2E99TweyIIESk=w2560-h1440-rw" hight="400"  width="150" />
+<img src="https://play-lh.googleusercontent.com/ntAsz7ykBcx5m-yANZN1kcL-BNRo0dgcE6zbATwWGdlmkIsBtvUUzDgr6bPlJv8FLL8=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/IQhGPu3cVihAIhNxrBKFJHf010oF77n1b8o-4OjZw2pRxt10eNvgu5ww6mLtsp-U1RI=w2560-h1440-rw" hight="400" width="150" />
+<img src="https://play-lh.googleusercontent.com/XkribTVR8S2V1EmsQLAsomtB1nNx2AaR6jqoU0xJk8Hwhx7gq6lWJbg1UquB40Ze6in5=w2560-h1440-rw" hight="400" width="150" />
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+<details open> 
+<summary>
+<h2>Shapical-Photo-Editor</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/c63664e0-5975-4016-85c3-430f6e322509" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/c63664e0-5975-4016-85c3-430f6e322509" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Transform your images with precision and creativity with 300+ Shape and filters.</h3>
+<h6>client Requirement</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/77c29a8f-cb82-4c31-8548-408dd6af453c"  width="350" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/f1218fdc-3992-43c0-830f-3d492fb84c5c" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/f98a4e98-f0da-45fe-a126-fe529955d883" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/0894e602-7346-49a2-883a-4091c236a1ff" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/7651f06b-3e73-42d3-b421-9041912b8c17" hight="400"  width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/51825c56-2176-40b2-a207-da0f146f25bd" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/de4d53fa-ca64-4230-828f-af71cd98e77f" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/20c92891-cde8-416b-bfb1-efcde329f3a0" hight="400" width="150" />
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Profile-Picture-Border-DpMaker</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/c5cde544-e25d-4736-81bc-40867c92c017" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/c5cde544-e25d-4736-81bc-40867c92c017" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>give a simple sober look to your Profile Picture or your WhatsApp DP or any of social media sites.</h3>
+<h6>client Requirement</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/5e26d0ba-e8b2-4a1b-a1a8-6320eb347552"  width="350" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/f27ba498-4d54-4733-992a-519efe7a886a" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/4d8b2aac-3d37-476a-ba78-57bb6473340a" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/8c0ee763-fc97-4186-aa4f-9637783c814e" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/5a797d30-d456-4501-bf9f-31fa6d5a2a70" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/3338855d-d287-46c1-a7c0-50fa6316554e" hight="400"  width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/3c1508c6-7671-4a61-ab98-6678963d0551" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Math-Num-Calculator</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/56b99aac-9cb4-4e68-a972-f223f0f642d5" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/56b99aac-9cb4-4e68-a972-f223f0f642d5" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Simplify complex calculations with our intuitive calculator app!</h3>
+<h6>One Day Project: client Requirement</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/4828f570-5424-424d-9e35-4a2db9aab6f9"  width="350" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/c8fb7fdf-3907-4b9c-a639-da9131689eb0" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/59c82423-c2f5-4dcf-af34-b5706cb826c9" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>Image-Resizer</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/d54d4a23-d9c4-4bf2-a8d7-ed0cce9ba9d3" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/d54d4a23-d9c4-4bf2-a8d7-ed0cce9ba9d3" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Photo/Image Resize & Compress helps you compress multiple JPG and PNG images in a very short time.</h3>
+<h6>client Requirement</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/59ffb32a-f705-4ca7-a045-c72a085d3951" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/7660528a-a54e-425b-8978-4ef69fc0c45f" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/adeeb41d-b747-49d2-8582-46363b78d498" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/4a22a379-9340-4bb9-87b3-8772295a3ffc" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/656a925a-c891-452d-aab5-05d44d9dd319" hight="400"  width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/817db139-32fe-4758-b70a-79955d3f2034" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/040f6723-e8f3-4961-a689-b8823da8e174" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/4febfbb6-cdb9-4f40-802d-b9f2c787c739" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>AI-Girlfriend</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/3d17f0a2-79c6-49dd-8409-aeeb51524c06" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/3d17f0a2-79c6-49dd-8409-aeeb51524c06" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Experience the ultimate virtual AI dating experience with iGirl.</h3>
+<h6>This project from a client who was having some multiple admob ads voilation problems.(codecanyon project)</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://s3.envato.com/files/461765458/Screenshots/s0.png" hight="400" width="150" />
+<img src="https://s3.envato.com/files/461765458/Screenshots/s1.png" hight="400" width="150" />
+<img src="https://s3.envato.com/files/461765458/Screenshots/s10.png" hight="400" width="150" />
+<img src="https://s3.envato.com/files/461765458/Screenshots/s11.png" hight="400" width="150" />
+<img src="https://s3.envato.com/files/461765458/Screenshots/s12.png" hight="400"  width="150" />
+<img src="https://s3.envato.com/files/461765458/Screenshots/s13.png" hight="400" width="150" />
+<img src="https://s3.envato.com/files/461765458/Screenshots/s14.png" hight="400" width="150" />
+<img src="https://s3.envato.com/files/461765458/Screenshots/s15.png" hight="400" width="150" />
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>StylishFonts-Generator</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/f2bcd03e-5146-47e2-9ce0-f70ef8523ed8" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/f2bcd03e-5146-47e2-9ce0-f70ef8523ed8" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Create amazing bio messages using stylish text</h3>
+<h6>One Day Project: client Requirement</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/09f5de59-38e3-4046-8ece-8e8db7a906dc" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/fe670e9a-d90d-442f-880d-0a125e8ab774" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/60aca472-2107-4c78-a881-7834c0c6a857" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/e2604d0c-dab7-4579-829c-e494bd925518" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/4ec1cb46-a252-41ec-ba04-44ab20c98205" hight="400"  width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/db714f51-fe99-4ae7-a382-dc65a628f287" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/416d2aa5-4b2f-470f-adfb-1c1d5f844c90" hight="400" width="150" />
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>AIVoiceTextTranslator</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/298fca4d-85c1-45ae-8e2f-5d57d7d14051" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/298fca4d-85c1-45ae-8e2f-5d57d7d14051" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>quickly and accurately translate any text, voice, photo & picture from a foreign one to your native language or vice versa</h3>
+<h6>One Day Project:  client Requirement</h6>
 
 </td>
 </tr>
@@ -35,12 +441,12 @@
 <tr>
 <td colspan="2">
 
-<img src="" hight="400" width="150" />
-<img src="" hight="400" width="150" />
-<img src="" hight="400" width="150" />
-<img src="" hight="400" width="150" />
-<img src="" hight="400"  width="150" />
-<img src="" hight="400" width="150" />
+<img src="https://private-user-images.githubusercontent.com/118904953/268060860-e2c54432-e5fc-4c3b-a983-e9e6e9f83983.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2ODgxNzMsIm5iZiI6MTcxNTY4Nzg3MywicGF0aCI6Ii8xMTg5MDQ5NTMvMjY4MDYwODYwLWUyYzU0NDMyLWU1ZmMtNGMzYi1hOTgzLWU5ZTZlOWY4Mzk4My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQxMTU3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NWI0NmIxODI0NTg2NTBkMDY2M2VkMjkxOGE2ODY0YThmMDhhOGVhM2QzZjNkYzcwYzg2MjhkZmY5MDI5ZDM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NxlzBnWqqUPmhXfs1N8D0I618TkYvw-TVFNpmfoyWF0" hight="400" width="150" />
+<img src="https://private-user-images.githubusercontent.com/118904953/268060855-5fbdbbfa-3799-4686-b75a-78c8e7f51e8c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2ODgxNzMsIm5iZiI6MTcxNTY4Nzg3MywicGF0aCI6Ii8xMTg5MDQ5NTMvMjY4MDYwODU1LTVmYmRiYmZhLTM3OTktNDY4Ni1iNzVhLTc4YzhlN2Y1MWU4Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQxMTU3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNGQ0NmM0MWNjMjM0Njc5YjhhYjQ3N2MxYWJmMjQyMDMzNGI0ZmMzYTJlM2M4YjVjMjNiMjM4N2E2MzllYmI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qi7Fzvwpq3UEhH4uTo44HSoTOUgN9Xp03GSXAjM0lKs" hight="400" width="150" />
+<img src="https://private-user-images.githubusercontent.com/118904953/268060854-79756cda-0d22-4c07-bfa2-0e8424182c54.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2ODgxNzMsIm5iZiI6MTcxNTY4Nzg3MywicGF0aCI6Ii8xMTg5MDQ5NTMvMjY4MDYwODU0LTc5NzU2Y2RhLTBkMjItNGMwNy1iZmEyLTBlODQyNDE4MmM1NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQxMTU3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYTg0Yjk5YWJjMjk1NDdmMjQwYzc0MDA4YTYxMzNjZmJmZTVjYjU3MGQyNjc2YTVjNjg0NDc1ZjE0NTI4YzA1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.icuaChVxK3Aby4oiIXMxWvlW7N5in4buCxjEHJfe0T8" hight="400" width="150" />
+<img src="https://private-user-images.githubusercontent.com/118904953/268060846-bde6722d-6bc0-4fe2-8cae-093ef0de053a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2ODgxNzMsIm5iZiI6MTcxNTY4Nzg3MywicGF0aCI6Ii8xMTg5MDQ5NTMvMjY4MDYwODQ2LWJkZTY3MjJkLTZiYzAtNGZlMi04Y2FlLTA5M2VmMGRlMDUzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQxMTU3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMjE2M2Q4ZGY2MzUyNmM3ZWY2NWRmZjQ4NGM3MWFkYmUwYTQzY2VlZjg3NDhmZDRhY2IwYTQ2MzczZjc0OTIzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._3dt0P1ihybK-Gvjt71AnAjxqpfwToMfl8POnCZWuW4" hight="400" width="150" />
+<img src="https://private-user-images.githubusercontent.com/118904953/268060828-56e6ea38-d7b8-46d6-9e02-f6456665d67a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2ODgxNzMsIm5iZiI6MTcxNTY4Nzg3MywicGF0aCI6Ii8xMTg5MDQ5NTMvMjY4MDYwODI4LTU2ZTZlYTM4LWQ3YjgtNDZkNi05ZTAyLWY2NDU2NjY1ZDY3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQxMTU3NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MzVmZjY3YTQ5MmFjMzIyZDE3YjBmNjc3YjQ0MjRkNjVhNDcyMGU4M2FlOTE4ZDg2NTZjZDU0MDJjNDcwYTk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.zmIWAchy5WX3lpoCLWvKlJbbri6rV4HS7DiS31qesH0" hight="400"  width="150" />
+
 
 
 </td>
@@ -54,6 +460,116 @@
 
 
 
+<details open> 
+<summary>
+<h2> </h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/8c8b0d19-5839-4a09-9e52-00d11482dd9a" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/8c8b0d19-5839-4a09-9e52-00d11482dd9a" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Image to PDF - PDF Maker can convert images (jpg, jpeg, png, etc.) to PDF files. Easy to use and 100% free.</h3>
+<h6>One Day Project:  client Requirement</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+
+<a href=" "><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white"></a>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/43f0d02b-d06d-4de0-b951-813069166f26" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/cac520d5-a1f6-4177-808f-872760c0d0c7" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/a72cd3a8-556c-46eb-961a-176a89719173" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/de00b4b7-a617-499d-8cd3-487256b0e5c0" hight="400" width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/cc87a428-3daa-4019-907b-63b2d4b71fc9" hight="400"  width="150" />
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/b7e7f5c5-409b-4ff4-88de-270edca39075" hight="400" width="150" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
+
+
+
+
+
+
+
+
+
+<details open> 
+<summary>
+<h2>2048-Charm-Number-Puzzle-Game</h2>
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/582c6741-e591-4729-8e1a-152524185b0c" alt="Logo" width="30">
+</summary>
+<p align="center">
+
+
+<a href=""><img alt="Get Repositories" title="Get Now" src="https://custom-icon-badges.demolab.com/badge/-Project%20repo%20is%20private-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<table border="2" cellpadding="10" >
+<tr>
+<td rowspan="2" align="center">
+
+<img src="https://github.com/AndroidWithRossyn/My-Top-Android-Projects/assets/118904953/582c6741-e591-4729-8e1a-152524185b0c" alt="Logo" width="70">
+
+</td>
+<td>
+
+
+<h3>Marge Tiles Brain Puzzle 2048 Game. Very simple game yet insanely addictive!</h3>
+<h6>This is my first project in Android career. Which was uploaded on Play Store.
+Then later it was added to the codester for selling purpose.</h6>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<a href=" "><img alt="JAVA" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href=" "><img alt="Playtore" src="https://custom-icon-badges.demolab.com/badge/@ Play Store-white.svg?logo=google-play-banrossyn"></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://user-images.githubusercontent.com/97843190/186829545-82a25155-6331-481b-93e1-b77e7badba58.png"  width="350" />
+<img src="https://camo.githubusercontent.com/5c720e0bf448220c4adea3d63899d1db5c5b02610674615dbe3a0bd45b92a536/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f51705a745f564c37545779357351524a536b332d564d7050496165686a5048644b756b385758353268565a2d6934454b6d536c73365542382d6967797261656575413d77323536302d6831343430"  width="350" />
+<img src="https://camo.githubusercontent.com/4e6fee1bcd1f271a23fcf425a0aeeb82c8ea2b6a90cc2f959ea92e0862302ea0/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f346b6675784b334d5077496956533073757a79746e6141702d64544d665056695f6575363063464b7354656159373852493139455a6559612d5a6a59543257746569733d77323536302d6831343430"  width="350" />
+<img src="https://camo.githubusercontent.com/407b6c7a0b8645f4739671d2e84fb749d60326d7c4b555d0a5c8c6f608f24c17/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f5445613356627256466f31346e336b6958517a43705f514c52726d55387544424c31665068687073742d755475703136734a5275525a67573362414a7765716244773d77323536302d6831343430"  width="350" />
+<img src="https://camo.githubusercontent.com/c0ad1c1f573ecdc6950206075906fc350988e822eafb9a3e56bd8a5cfa635330/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f74546a34355a43475747594b73754565567443516c4f4132443332386b684962704e4d4c4d5263796d656c725a46354f66456c5a304b5f2d556355446130734174413d77323536302d6831343430"   width="350" />
+<img src="https://camo.githubusercontent.com/327425aaade70721e2c398502157a8e25b03ca41591602015ec34c69dabf55c1/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f4a5f586d4a6567516948786e456b785675354b643243332d524b566a37664f43784f38744e34684b743832435f6e37364a525947464d454f6d4f48586135474e4451504f3d77323536302d6831343430"  width="350" />
+<img src="https://camo.githubusercontent.com/7a68deff995594de70b916ded82768dca32f6ea56378918580a8af3e35eb714e/68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f657a50304d49736e5a47417a6d383776536664625774745243715832736e6466777a574f566c62596245317a4872485f335144425157706f30583870326354464744345f3d77323536302d6831343430"  width="350" />
+
+
+</td>
+</tr>
+</table>
+</p>
+</details>
 
 
 
