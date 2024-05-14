@@ -1,3 +1,45 @@
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm Rossyn</h2>
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+%22Crafting+Code%2C+Building+Dreams%22;+%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
+</p>
+
+---
+![Talk to us](https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/b15613d0-1762-4b1b-ad01-6868f883e63d)
+
+<div align="start">
+
+![pv](https://pageview.vercel.app/?github_user=My-Top-Android-Projects)
+
+
+<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
+<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white"></a>
+<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
+<a href="https://twitter.com/banrossyn"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?logo=Twitter&logoColor=white"></a>
+<a href="https://www.threads.net/@androidwithrossyn"><img alt="Threads" src="https://img.shields.io/badge/Threads-000000.svg?logo=Threads&logoColor=white"></a>
+<a href=https://www.instagram.com/androidwithrossyn/><img alt="insta" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/AndroidWithRossyn/"><img alt="" src="https://img.shields.io/badge/Facebook-0866FF.svg?logo=Facebook&logoColor=white"></a>
+<a href="https://medium.com/@banrossyn"><img alt="" src="https://img.shields.io/badge/Medium-000000.svg?logo=Medium&logoColor=white"></a>
+
+<div align="start">
+
+<div align="center">
+<h4>These are some of my best projects that I have worked on or used for learning purposes.
+Some of these projects are publicly available which can be helpful in your Android journey.</h4>
+
+<h4>Private projects are kept private whether we want to protect our client's project to avoid  Google's devloper policy, or want to avoid any kind of misuse.</h4>
+
+Please note that: I have not included my own projects which are currently live on Play Store.
+
+<div align="start">
+
+
+<!--pojects starts here-->
+<!--pojects starts here-->
+
+
+
 <details open> 
 <summary>
 <h2>Video Downloader for Instagram</h2>
